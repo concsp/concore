@@ -1,3 +1,3 @@
-# concore
+ # concore
 
-Server/Client Lab - Scripts - Notes.
+ Server/Client Lab - Scripts - Notes.

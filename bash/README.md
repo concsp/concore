@@ -1,1 +1,3 @@
- #Bash\n\nScripts storage directory.
+ # BASH
+
+ Will contain various .sh scripts as I progress.

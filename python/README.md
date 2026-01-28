@@ -1,1 +1,3 @@
- #Python\n\nWill contain various .py files, mainly scripts for duration of this lab.
+ # PYTHON
+
+ Will contain various .py files for automation/scripting.
